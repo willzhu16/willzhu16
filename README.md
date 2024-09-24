@@ -5,6 +5,8 @@
 - 📫 How to reach me: email! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the proud owner of 2 absolute chonking cats (> 15 lbs)
+- I am currrently looking for a full time software engineering job! (I'm a senior at the University of Wisconsin-Madison)
+- This is my personal account. Unfortunately I cannot share my school projects.
 
 <!---
 willzhu16/willzhu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
