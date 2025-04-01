@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willzhu16
 - 👀 I’m interested in computer science in general (and dance!!!)
-- 🌱 I’m currently learning computer graphics, game design, and database management!
+- 🌱 I’m currently learning Neural Networks (and other fun AI frameworks)!
 - 💞️ I’m looking to collaborate on pretty much anything...
 - 📫 How to reach me: email! 
 - 😄 Pronouns: He/Him
