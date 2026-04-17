@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @willzhu16
-- 👀 I’m interested in computer science in general (and dance!!!)
-- 🌱 I’m currently learning Neural Networks (and other fun AI frameworks)!
+- 👀 I’m interested in Software Development, AI, Dance, Music, Gaming and more! 
 - 💞️ I’m looking to collaborate on pretty much anything...
 - 📫 How to reach me: email! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the proud owner of 2 absolute chonking cats (> 15 lbs)
-- 📚 I am currrently looking for a full time software engineering job! (I'm a senior at the University of Wisconsin-Madison)
 
 
 <!---
