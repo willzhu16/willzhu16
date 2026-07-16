@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @willzhu16
-- 👀 I’m interested in Software Development, AI, Dance, Music, Gaming and more! 
-- 💞️ I’m looking to collaborate on pretty much anything...
-- 📫 How to reach me: email! 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am the proud owner of 2 absolute chonking cats (> 15 lbs)
+# Hi, I’m Bill Zhu. I'm glad you're here :)
 
+I’m a Software Engineer who likes making side projects in my free time.
 
-<!---
-willzhu16/willzhu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building useful software, learning quickly, and turning messy technical problems into systems that are easier to understand and maintain. My experience includes backend services, APIs, cloud infrastructure, full-stack development, applied machine learning, production support, and developer tooling.
+
+## What I’m working on
+
+- **[ContextGuard](https://bearinblue.github.io/contextguard/)**: a VS Code extension for reviewing and improving the configuration loaded by AI coding assistants
+- **[Launch Start](https://willzhu.dev/)**: a build-in-public journal where I document software projects, engineering decisions, and what I learn while shipping
+- A bunch of other projects that aren't quite yet ready to be showcased! 
+
+## Interests
+
+I’m especially interested in:
+
+- Full-stack products
+- Developer tools
+- Applied AI and machine learning
+- LLM-powered systems
+- Software architecture and engineering processes
+- Building software focused on alleviating real problems. 
+
+Outside of software, I enjoy singing, playing saxophone, swing dancing, gaming, and reading.
+
+## Find me
+
+- Website: [willzhu.dev](https://willzhu.dev/)
